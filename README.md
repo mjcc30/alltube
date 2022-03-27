@@ -47,6 +47,9 @@ composer install
 ### On Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+when deploying, change python to python3
+![image](https://user-images.githubusercontent.com/20607107/160301881-e6ecce18-c3bb-4b81-b30d-76974d3179ec.png)
+
 
 ### On Cloudron
 
