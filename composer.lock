@@ -3609,11 +3609,11 @@
             "time": "2014-08-20T20:43:34+00:00"
         },
         {
-            "name": "ytdl-org/youtube-dl",
-            "version": "2021.04.01",
+            "name": "yt-dlp/yt-dlp",
+            "version": "2022.03.08.1",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/ytdl-org/youtube-dl/archive/2021.04.01.zip"
+                "url": "https://github.com/yt-dlp/yt-dlp/archive/2022.03.08.1.zip"
             },
             "type": "library"
         },
