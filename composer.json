@@ -116,6 +116,6 @@
       "tsmarty2c.php templates > i18n/template.pot",
       "xgettext --omit-header -kt -j -o i18n/template.pot classes/*.php classes/*/*.php"
     ],
-    "youtube-dl": "vendor/yt-dlp/yt_dlp/__main__.py"
+    "youtube-dl": "vendor/yt-dlp/yt-dlp/yt_dlp/__main__.py"
   }
 }
